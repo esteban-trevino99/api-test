@@ -1,5 +1,5 @@
 # technical-test-codifin
-Esteban's technical test for codifin
+Exercises test by esteban-trevino99
 
 # Instructions
 1. `npm install` to install modules
